@@ -304,8 +304,8 @@ fieldset {
 
 button {
   background-color: #fff;
-  border: 1px solid #7600bc;
-  color: #7600bc;
+  border: 1px solid #2685F0;
+  color: #2685F0;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -316,8 +316,8 @@ button {
 }
 
 button:hover {
-  background-color: #7600bc;
-  border: 1px solid #7600bc;
+  background-color: #2685F0;
+  border: 1px solid #2685F0;
   color: #fff;
   display: block;
   border-radius: 6px;
