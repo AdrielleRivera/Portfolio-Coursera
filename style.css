@@ -23,6 +23,7 @@ body {
   font-size: 20px;
   text-decoration:underline;
   font-weight: bolder;
+  cursor: pointer;
 }
 
 .topmenu:hover {
@@ -96,7 +97,7 @@ h2 {
 #about-me h1 {
   font-size: 65px;
   margin-top: 90px;
-  color: #7600bc;
+  color: #2685F0;
 }
 
 #about-me p {
